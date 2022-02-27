@@ -1,0 +1,19 @@
+{
+  "name": "mdv",
+  "version": "1.0.0",
+  "description": "Case Study",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Bekir Kaan Aşcı",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0"
+  }
+}
